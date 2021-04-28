@@ -1,4 +1,4 @@
-# kfp-kutorial-on-gcp
+# kfp-kutorial
 
 * tfx-pipeline-python-src : tfx pipeline에서 활용되는 python 파일입니다.
   * constants_trainer.py & inputfn_trainer.py : 두 파일은 전처리 과정에서 사용됩니다.
