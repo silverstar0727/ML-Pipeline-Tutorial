@@ -8,3 +8,6 @@
 
 ## Simple TFX Pipeline
 * [penguin_simple.ipynb](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline-tutorial/penguin_simple.ipynb): 간단한 파이프라인 구성 예제입니다.
+
+
+## 컨퍼런스 영상(업로드 예정)
