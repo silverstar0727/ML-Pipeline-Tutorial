@@ -6,8 +6,10 @@
 2. TFX Pipeline(Kubeflow Orchestrator)
 3. Kubeflow Pipline
 
+====================
+
 ## 참고자료
 ### Mikube(단일 노드)에서 Kubeflow 배포하기
 [github](https://github.com/silverstar0727/deploy-kubeflow-on-gcp)/[youtube](https://www.youtube.com/watch?v=J__0czLYmxc)
 
-## GCP Freetier로 AI platform Pipeline 활용하기
+### GCP Freetier로 AI platform Pipeline 활용하기
