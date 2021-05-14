@@ -11,6 +11,6 @@
 
 
 ## 컨퍼런스 영상(GDSC Yonsei Con.)
-[Youtube](https://www.youtube.com/watch?v=Fcu-vbuZ0D0&t) (TFX Pipeline)
-[Youtube](https://www.youtube.com/watch?v=g6xjfe3uEYw&t) (TFT)
-[Youtube](https://www.youtube.com/watch?v=48jS2eI8NIw&t) (TFDV)
+- [Youtube](https://www.youtube.com/watch?v=Fcu-vbuZ0D0&t) (TFX Pipeline)
+- [Youtube](https://www.youtube.com/watch?v=g6xjfe3uEYw&t) (TFT)
+- [Youtube](https://www.youtube.com/watch?v=48jS2eI8NIw&t) (TFDV)
