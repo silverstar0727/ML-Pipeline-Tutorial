@@ -10,5 +10,7 @@
 * [penguin_simple.ipynb](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline-tutorial/penguin_simple.ipynb): 간단한 파이프라인 구성 예제입니다.
 
 
-## 컨퍼런스 영상(GDSC Yonsei April Con.)
-[Youtube](https://www.youtube.com/watch?v=Fcu-vbuZ0D0&t=926s)
+## 컨퍼런스 영상(GDSC Yonsei Con.)
+[Youtube](https://www.youtube.com/watch?v=Fcu-vbuZ0D0&t) (TFX Pipeline)
+[Youtube](https://www.youtube.com/watch?v=g6xjfe3uEYw&t) (TFT)
+[Youtube](https://www.youtube.com/watch?v=48jS2eI8NIw&t) (TFDV)
