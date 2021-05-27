@@ -1,5 +1,5 @@
 # ML-Pipeline-Tutorial
-gcp에서 vertex AI로 AI Platform이 이전하는 것 같아서 열심히 공부하고 다시 작성하겠습니다. 
+> gcp에서 vertex AI로 AI Platform이 이전하는 것 같아서 열심히 공부하고 다시 작성하겠습니다. 
 
 해당 레포는 Machine Learning Pipeline을 직접 공부하면서 제작 중인 튜토리얼입니다.
 
