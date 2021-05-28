@@ -8,8 +8,8 @@ MLOps분야의 잦은 업데이트로 인해 종속성 오류 등이 생길 수 
 ---
 ## 다음의 순서로 학습하시길 권장드립니다.
 1. [TFX Pipeline](https://github.com/silverstar0727/ML-Pipeline-Tutorial/tree/main/tfx-pipeline-tutorial) - Tensorflow Extended Pipeline의 기초적인 예제를 포함하고 있습니다.
-2. VertexAI Pipeline 
-
+2. Kubeflow Pipeline
+3. VertexAI Pipeline 
 
 ## 참고자료
 ### Minikube(단일 노드)에서 Kubeflow 배포하기
