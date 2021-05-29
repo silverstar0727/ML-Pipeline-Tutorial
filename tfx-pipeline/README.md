@@ -11,7 +11,7 @@
 #### with Vertex AI Pipeline
 * [penguin_simple_with_vertex_ai.ipynb](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline/penguin_simple_with_vertex_ai.ipynb)
 
-![image](../images/vertexai.png){}
+![image](../images/vertexai.png)
 
 ## 컨퍼런스 영상(GDSC Yonsei Con.)
 - [Youtube](https://www.youtube.com/watch?v=Fcu-vbuZ0D0&t) (TFX Pipeline)
