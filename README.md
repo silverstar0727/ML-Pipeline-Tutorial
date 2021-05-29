@@ -15,8 +15,6 @@ MLOps분야의 잦은 업데이트로 인해 종속성 오류 등이 생길 수 
 ### Minikube(단일 노드)에서 Kubeflow 배포하기
 [github](https://github.com/silverstar0727/deploy-kubeflow-on-gcp)/[youtube](https://www.youtube.com/watch?v=J__0czLYmxc)
 
-### GCP Freetier로 AI platform Pipeline 활용하기
-
 ### 참고서적
 * [Building Machine Learning Pipelines](https://learning.oreilly.com/library/view/building-machine-learning/9781492053187/)
 * [Kubeflow for Machine Learning](https://learning.oreilly.com/library/view/kubeflow-for-machine/9781492050117/)
