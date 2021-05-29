@@ -8,7 +8,7 @@
 
 ## Simple TFX Pipeline
 * [penguin_simple.ipynb](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline-tutorial/penguin_simple.ipynb): 간단한 파이프라인 구성 예제입니다.
-#### with Vertex AI Pipeline
+#### on GCP(Vertex AI Pipeline)
 * [penguin_simple_with_vertex_ai.ipynb](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline/penguin_simple_with_vertex_ai.ipynb): GCP의 새로운 서비스인 Vertex AI Pipeline을 이용하여 TFX를 실행하는 예제입니다.
 
 ![image](../images/vertexai.png)
