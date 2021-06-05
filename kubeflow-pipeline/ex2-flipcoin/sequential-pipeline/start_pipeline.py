@@ -3,14 +3,14 @@ from kfp import dsl
 
 
 def flip_coin_op():
-    return dsl.ContainerOp(
-        name='Flip coin',
-        image='python:alpine3.6',
-        command=['sh', '-c'],
-        arguments=['python -c "import random; result = \\ "heads\\" if random.randint(0,1) == 0 '
-                  'else \\"tails\\"; print(result)" | tee /tmp/output'],
-        file_outputs={'output': '/tmp/output'}
-    )
+    import random
+
+    if random.randint(0,1) == 0:
+        result = "heads" 
+    else:
+        result = 'tails'
+
+    return result
 
 
 def print_op(msg):
@@ -29,7 +29,7 @@ def print_op(msg):
 def sequential_pipeline():
     """A pipeline with two sequential steps."""
 
-    flip = flip_coin_op()
+    flip = kfp.components.func_to_container_op(flip_coin_op)
     print_op(flip.output)
 
 
