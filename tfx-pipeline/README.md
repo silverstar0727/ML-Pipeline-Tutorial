@@ -16,4 +16,6 @@
 ## 컨퍼런스 영상(GDSC Yonsei Con.)
 - [Youtube](https://www.youtube.com/watch?v=Fcu-vbuZ0D0&t) (TFX Pipeline)
 - [Youtube](https://www.youtube.com/watch?v=g6xjfe3uEYw&t) (TFT)
+  * [TFT.ipynb](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline/tfx-components/TFT_tutorial.ipynb)
 - [Youtube](https://www.youtube.com/watch?v=48jS2eI8NIw&t) (TFDV)
+  * [TFDV.ipynb](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/tfx-pipeline/tfx-components/TFDV_tutorial.ipynb)
