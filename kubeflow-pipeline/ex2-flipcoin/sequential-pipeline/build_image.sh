@@ -1,1 +1,0 @@
-docker build -t silverstar456/kubeflow:1 ./dockerbuild
