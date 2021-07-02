@@ -47,11 +47,11 @@ def train() -> NamedTuple('output', [('mlpipeline_metrics', 'metrics')]):
 
 train_component = kfp.components.func_to_container_op(train, base_image='tensorflow/tensorflow:2.1.0-py3')
 
-def calc_pipeline():
+def viz_pipeline():
     training = train_component()
     
 if __name__ == "__main__":
     kfp.Client(host=KUBEFLOW_HOST).create_run_from_pipeline_func(
-        calc_pipeline,
+        viz_pipeline,
         arguments={},
         experiment_name='metrics')
