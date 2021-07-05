@@ -1,0 +1,2 @@
+* [metadata_pipeline.ipynb](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/vertex-ai-pipeline/metadata_pipeline.ipynb)[Youtube 1](https://www.youtube.com/watch?v=WAVypTYYkek) / [Youtube 2](https://www.youtube.com/watch?v=hQvOMeypO4I)
+* [mnist_simple_pipeline.ipynb](https://github.com/silverstar0727/ML-Pipeline-Tutorial/blob/main/vertex-ai-pipeline/mnist_simple_pipeline.ipynb) [Youtube](https://www.youtube.com/watch?v=dIK2YXAfla4)
